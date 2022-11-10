@@ -1,1 +1,2 @@
 j'ecris du texte dans mon chifier exo.txt
+J'ajoute cette ligne au fichier exo.txt
